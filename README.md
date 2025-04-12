@@ -13,8 +13,8 @@ This repository contains key concepts and resources related to system design. Be
 ---
 
 ## 2. Core Concepts
-- [CAP Theorem]
-  - [Read More] (https://lnkd.in/gV7NunUD)
+- CAP Theorem
+  - [Read More](https://lnkd.in/gV7NunUD)
   
 - [ACID Transactions](https://lnkd.in/gpQMxV9u)
 - [Consistent Hashing](https://lnkd.in/gaCVWBJM)
