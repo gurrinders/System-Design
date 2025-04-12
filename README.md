@@ -14,6 +14,12 @@ This repository contains key concepts and resources related to system design. Be
 
 ## 2. Core Concepts
 - CAP Theorem
+- The CAP theorem is a belief from theoretical computer science about distributed data stores that claims, in the event of a network failure on a distributed database, it is possible to 
+  provide either consistency or availability—but not both.
+  The CAP Theorem is comprised of three components (hence its name) as they relate to distributed data stores:
+  1.  Consistency- All reads receive the most recent write or an error.
+  2.  Availability- All reads contain data, but it might not be the most recent.
+  3.  Partition tolerance- The system continues to operate despite network failures (ie; dropped partitions, slow network connections, or unavailable network connections between nodes.)
   - [Read More](https://lnkd.in/gV7NunUD)
   
 - [ACID Transactions](https://lnkd.in/gpQMxV9u)
