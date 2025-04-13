@@ -25,6 +25,7 @@ This repository contains key concepts and resources related to system design. Be
   - [Read More](https://lnkd.in/gV7NunUD)
   
 - [ACID Transactions]
+  - [local](https://github.com/gurrinders/System-Design/blob/main/Acid%20Transactions)
   - [Read More](https://lnkd.in/gpQMxV9u)
   
 - [Consistent Hashing]
