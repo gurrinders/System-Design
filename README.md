@@ -22,13 +22,13 @@ This repository contains key concepts and resources related to system design. Be
   2.  Availability- All reads contain data, but it might not be the most recent.
   3.  Partition tolerance- The system continues to operate despite network failures (ie; dropped partitions, slow network connections, or unavailable network connections between nodes.)
 
- Database options for prioritizing the consistency component of the CAP theorem:
-  MongoDB  
-  HBase
+  Database options for prioritizing the consistency component of the CAP theorem:
+   1. MongoDB  
+   2. HBase
 
- Database options for prioritizing the availability component of the CAP theorem:
-  Cassandra
-  Redis
+  Database options for prioritizing the availability component of the CAP theorem:
+   1. Cassandra
+   2. Redis
   - [Read More](https://lnkd.in/gV7NunUD)
   
 - [ACID Transactions]
