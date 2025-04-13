@@ -16,21 +16,47 @@ This repository contains key concepts and resources related to system design. Be
 - CAP Theorem
 - The CAP theorem is a belief from theoretical computer science about distributed data stores that claims, in the event of a network failure on a distributed database, it is possible to 
   provide either consistency or availability—but not both.
+  
   The CAP Theorem is comprised of three components (hence its name) as they relate to distributed data stores:
   1.  Consistency- All reads receive the most recent write or an error.
   2.  Availability- All reads contain data, but it might not be the most recent.
   3.  Partition tolerance- The system continues to operate despite network failures (ie; dropped partitions, slow network connections, or unavailable network connections between nodes.)
+
+ Database options for prioritizing the consistency component of the CAP theorem:
+  MongoDB  
+  HBase
+
+ Database options for prioritizing the availability component of the CAP theorem:
+  Cassandra
+  Redis
   - [Read More](https://lnkd.in/gV7NunUD)
   
-- [ACID Transactions](https://lnkd.in/gpQMxV9u)
-- [Consistent Hashing](https://lnkd.in/gaCVWBJM)
-- [Rate Limiting](https://lnkd.in/gjkrHkGu)
-- [Microservices Architecture](https://lnkd.in/gy3kRzep)
-- [API Design](https://lnkd.in/ghcbQySg)
-- [Strong vs Eventual Consistency](https://lnkd.in/g2ACr56Q)
-- [Synchronous vs Asynchronous Communications](https://lnkd.in/gYZ8Acth)
-- [REST vs RPC](https://lnkd.in/gs7htCMG)
-- [Batch Processing vs Stream Processing](https://lnkd.in/gBKHzqAe)
+- [ACID Transactions]
+  - [Read More](https://lnkd.in/gpQMxV9u)
+  
+- [Consistent Hashing]
+   - [Read More](https://lnkd.in/gaCVWBJM)
+ 
+- [Rate Limiting]
+   - [Read More](https://lnkd.in/gjkrHkGu)
+     
+- [Microservices Architecture]
+   - (https://lnkd.in/gy3kRzep)
+  
+- [API Design]
+   - (https://lnkd.in/ghcbQySg
+  
+- [Strong vs Eventual Consistency]
+   - (https://lnkd.in/g2ACr56Q)
+  
+- [Synchronous vs Asynchronous Communications]
+   - (https://lnkd.in/gYZ8Acth)
+  
+- [REST vs RPC]
+  - (https://lnkd.in/gs7htCMG)
+  
+- [Batch Processing vs Stream Processing]
+   - (https://lnkd.in/gBKHzqAe)
 
 ---
 
