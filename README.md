@@ -14,6 +14,7 @@ This repository contains key concepts and resources related to system design. Be
 
 ## 2. Core Concepts
 - CAP Theorem
+
   The CAP theorem is a belief from theoretical computer science about distributed data stores that claims, in the event of a network failure on a distributed database, it is possible to 
   provide either consistency or availability—but not both.
   
