@@ -27,24 +27,21 @@ This repository contains key concepts and resources related to system design. Be
   
 - ACID Transactions
 
-  Atomicity: 
-  Atomicity in ACID transactions guarantees that a transaction is treated as a single, indivisible unit of work. If any part of the transaction fails, the entire transaction must be rolled 
-  back, meaning that any changes made during the transaction are undone. This ensures that the database remains in a consistent state, regardless of any failures that may occur during the 
-  transaction.
+  Atomicity: Atomicity in ACID transactions guarantees that a transaction is treated as a single, indivisible unit of work. If any part of the transaction fails, the entire transaction must 
+  be rolled back, meaning that any changes made during the transaction are undone. This ensures that the database remains in a consistent state, regardless of any failures that may occur 
+  during the transaction.
   
-  Consistency:  
-  Consistency ensures that the database remains in a valid state before and after the transaction. In other words, the database schema must satisfy all constraints and rules, and any 
-  transaction that violates these constraints must be rolled back to maintain the consistency of the database. This ensures that the database maintains its integrity and the data remains 
-  accurate and reliable.
+  Consistency: Consistency ensures that the database remains in a valid state before and after the transaction. In other words, the database schema must satisfy all constraints and rules, 
+  and any transaction that violates these constraints must be rolled back to maintain the consistency of the database. This ensures that the database maintains its integrity and the data 
+  remains accurate and reliable.
   
-  Isolation: 
-  This property ensures that each transaction operates independently of other transactions, which means that a transaction’s effects should only become visible to other transactions after it 
-  has been committed. This property prevents interference and conflicts between concurrent transactions, and helps maintain the integrity and consistency of the database. It’s important to 
-  note that different levels of isolation can be configured for transactions, depending on the specific requirements of the application and the database system being used.
+  Isolation: This property ensures that each transaction operates independently of other transactions, which means that a transaction’s effects should only become visible to other 
+  transactions after it has been committed. This property prevents interference and conflicts between concurrent transactions, and helps maintain the integrity and consistency of the 
+  database. It’s important to note that different levels of isolation can be configured for transactions, depending on the specific requirements of the application and the database system 
+  being used.
   
-  Durability: 
-  This characteristic makes sure that, even in a system failure, the changes made to the database during a transaction are irreversible. Any changes made after a transaction is committed 
-  must persist, even if the system is destroyed or loses power.
+  Durability: This characteristic makes sure that, even in a system failure, the changes made to the database during a transaction are irreversible. Any changes made after a transaction is 
+  committed must persist, even if the system is destroyed or loses power.
   - [local](https://github.com/gurrinders/System-Design/blob/main/Acid%20Transactions)
   - [Read More](https://lnkd.in/gpQMxV9u)
   
