@@ -52,22 +52,22 @@ This repository contains key concepts and resources related to system design. Be
    - [Read More](https://lnkd.in/gjkrHkGu)
      
 - Microservices Architecture
-   - (https://lnkd.in/gy3kRzep)
+   - [Read More](https://lnkd.in/gy3kRzep)
   
 - API Design
-   - (https://lnkd.in/ghcbQySg
+   - [Read More](https://lnkd.in/ghcbQySg
   
 - Strong vs Eventual Consistency
-   - (https://lnkd.in/g2ACr56Q)
+   - [Read More](https://lnkd.in/g2ACr56Q)
   
 - Synchronous vs Asynchronous Communications
-   - (https://lnkd.in/gYZ8Acth)
+   - [Read More](https://lnkd.in/gYZ8Acth)
   
 - REST vs RPC
-  - (https://lnkd.in/gs7htCMG)
+  - [Read More](https://lnkd.in/gs7htCMG)
   
 - Batch Processing vs Stream Processing
-   - (https://lnkd.in/gBKHzqAe)
+   - [Read More](https://lnkd.in/gBKHzqAe)
 
 ---
 
