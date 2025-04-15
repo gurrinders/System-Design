@@ -55,7 +55,7 @@ This repository contains key concepts and resources related to system design. Be
    - [Read More](https://lnkd.in/gy3kRzep)
   
 - API Design
-   - [Read More](https://lnkd.in/ghcbQySg
+   - [Read More](https://lnkd.in/ghcbQySg)
   
 - Strong vs Eventual Consistency
    - [Read More](https://lnkd.in/g2ACr56Q)
