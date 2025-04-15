@@ -45,34 +45,35 @@ This repository contains key concepts and resources related to system design. Be
   - [local](https://github.com/gurrinders/System-Design/blob/main/Acid%20Transactions)
   - [Read More](https://lnkd.in/gpQMxV9u)
   
-- [Consistent Hashing]
+- Consistent Hashing
    - [Read More](https://lnkd.in/gaCVWBJM)
  
-- [Rate Limiting]
+- Rate Limiting
    - [Read More](https://lnkd.in/gjkrHkGu)
      
-- [Microservices Architecture]
+- Microservices Architecture
    - (https://lnkd.in/gy3kRzep)
   
-- [API Design]
+- API Design
    - (https://lnkd.in/ghcbQySg
   
-- [Strong vs Eventual Consistency]
+- Strong vs Eventual Consistency
    - (https://lnkd.in/g2ACr56Q)
   
-- [Synchronous vs Asynchronous Communications]
+- Synchronous vs Asynchronous Communications
    - (https://lnkd.in/gYZ8Acth)
   
-- [REST vs RPC]
+- REST vs RPC
   - (https://lnkd.in/gs7htCMG)
   
-- [Batch Processing vs Stream Processing]
+- Batch Processing vs Stream Processing
    - (https://lnkd.in/gBKHzqAe)
 
 ---
 
 ## 3. Reliability and Scalability
-- [Fault Tolerance](https://lnkd.in/ggzdZVhM)
+- [Fault Tolerance]
+  - (https://lnkd.in/ggzdZVhM)
 - [Consensus Algorithms](https://lnkd.in/gUcVEhUx)
 - [Gossip Protocol](https://lnkd.in/gvkckQGY)
 - [Serverless Architecture](https://lnkd.in/g3EYA3nz)
