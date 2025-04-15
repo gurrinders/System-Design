@@ -24,7 +24,7 @@ This repository contains key concepts and resources related to system design. Be
   3.  **Partition tolerance**- The system continues to operate despite network failures (ie; dropped partitions, slow network connections, or unavailable network connections between nodes.)
 
   - [Read More](https://lnkd.in/gV7NunUD)
-   -
+   --
   
 - ACID Transactions
 
